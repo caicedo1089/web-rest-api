@@ -10,7 +10,7 @@ La estructura de carpeta es muy simple, cómo se muestra a continuación:
 
 ## Demostración
 
-![Demostración](https://user-images.githubusercontent.com/10428238/33673458-bf91764a-da7a-11e7-99b9-56fb73649c13.gif)
+![Demostración](https://github.com/caicedo1089/web-rest-api/blob/master/public/img/CRUD.gif)
 
 ## Instalación
 * Clone el proyecto.
