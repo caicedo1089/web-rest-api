@@ -1,6 +1,6 @@
 {
-    "name": "caicedo1089/testpc",
-    "description": "Prueba tecnica para Zinobe",
+    "name": "caicedo1089/app",
+    "description": "Web API Rest es un micro framework que muestra la creación y uso de un API Rest.",
     "license": "MIT",
     "authors": [
         {
