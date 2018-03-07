@@ -1,0 +1,17 @@
+{
+    "name": "caicedo1089/testpc",
+    "description": "Prueba tecnica para Zinobe",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Caicedo",
+            "email": "caicedo1089@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ecoal95/php-router": "^1.0",
+        "vlucas/phpdotenv": "^2.4",
+        "illuminate/database": "^5.5"
+    }
+}
