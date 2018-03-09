@@ -113,7 +113,7 @@ CRUD de los usuarios del sistema.
 }
 ```
 
-* POST /api/auth/logout
+* POST /api/users/
 ```
 //JSON Request
 {
@@ -131,7 +131,7 @@ CRUD de los usuarios del sistema.
 }
 ```
 
-* PUT /api/auth/logout
+* PUT /api/users/<id_user>
 Todos los parametros de la solicitud (request) son opcionales, ea decir si sólo queremos actualizar el nombre sólo enviamos el parametro full_name en el JSON.
 ```
 //JSON Request
@@ -167,4 +167,5 @@ Todos los parametros de la solicitud (request) son opcionales, ea decir si sólo
 
 ## Licencia
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT) (BackEnd)
+[GPL v3](https://opensource.org/licenses/GPL-3.0) (FrontEnd)
