@@ -167,5 +167,5 @@ Todos los parametros de la solicitud (request) son opcionales, ea decir si sólo
 
 ## Licencia
 
-[MIT](https://opensource.org/licenses/MIT) (BackEnd)
-[GPL v3](https://opensource.org/licenses/GPL-3.0) (FrontEnd)
+* [MIT](https://opensource.org/licenses/MIT) (BackEnd)
+* [GPL v3](https://opensource.org/licenses/GPL-3.0) (FrontEnd)
